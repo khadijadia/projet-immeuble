@@ -1,0 +1,111 @@
+a, a:hover{
+	text-decoration: none;
+}
+
+.header{
+	height: 70px;
+	line-height: 70px;
+}
+.menu {
+	float: right;*
+
+}
+	
+.menu a{
+	color:#363335;
+	letter-spacing: 1px;
+	margin-right: 20px;
+
+}
+
+.menu a:hover{
+	color: #E0D5DE;
+}
+.logo{
+
+width: 70px; 
+height: 70px;
+ border-radius: 100%;
+  border: 12px solid #f1f1f1;
+  background-color: #f1f1f1;
+ 
+}
+
+
+
+ .row1 i{
+	padding: 20px 20px;
+	display: inline-block;
+	border: 2px solid gray;
+	border-radius: 50%;
+	color: white;
+	background-color: #6591EB;
+	font-size: 20px;
+}
+
+.container .row1{
+	display: flex;
+	text-align: center;
+
+
+}h1{
+	font-size: 14px;
+	font-weight: 700;
+}
+p{
+	font-size: 12px;
+	font-style: italic;
+}
+ 
+
+
+
+.container-fluid .life{
+	text-align: center;
+}
+.container-fluid .life h1{
+	font-size: 14px;
+}
+.container-fluid .life p{
+	font-size: 18px;
+}
+
+.container .row1 h1{
+font-size: 14px;
+}
+
+
+
+
+.container .rowC .item{
+	display: inline-block;
+	position: relative;
+	left: 9%;
+	
+	
+	margin-right: 3%;
+	text-align: center; 
+	padding-bottom: 30px;
+}
+
+.container .rowD .item1{
+	float: right;
+	margin-right: 3%;
+	text-align: center; 
+	padding-bottom: 30px;
+}
+
+section .row .les-p{
+	
+}
+
+
+.container-fluid .container .row .relative{
+	
+	height: 100px;
+}
+
+.container-fluid .container .row .absolute{
+height: 50px;
+width: 50px;
+}
